@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @Description: TODO(选择排序)
  * @author william
  * @date Feb 2, 2015 4:13:42 PM
- * rule
+ * @rule
  * 每次从无序区选择一个最小的值
  * 时间复杂度O(n^2)
  */

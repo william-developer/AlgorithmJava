@@ -1,7 +1,14 @@
 package com.Algorithm;
 
 import java.util.Arrays;
-
+/**
+ * 
+ * @ClassName QuickSort.java
+ * @Description TODO
+ * @author william
+ * @date 2015年3月2日
+ *
+ */
 public class QuickSort {
 	public static void sort(int arr[],int low,int high)
 	 {
